@@ -4,7 +4,7 @@ Certainly! Below is a rewritten README tailored for the **CauseAndEffect** app, 
 
 # CauseAndEffect: Monitor, Analyze, and Optimize Your Screen Activity
 
-<img src="https://github.com/CodeMusic/CodeMusai-University/blob/main/CauseAndEffect.jpg?raw=true" alt="CauseAndEffect">
+<img src="https://github.com/CodeMusic/CauseAndEffect/blob/main/CauseAndEffect.jpg?raw=true" alt="CauseAndEffect">
 
 ## Overview
 
